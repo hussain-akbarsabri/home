@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://hussain-akbarsabri.github.io/home/static/css/main.fe927caf.css",
-    "main.js": "https://hussain-akbarsabri.github.io/home/static/js/main.6569ca3e.js",
-    "static/js/787.4b24f717.chunk.js": "https://hussain-akbarsabri.github.io/home/static/js/787.4b24f717.chunk.js",
-    "static/media/hashirshoaeb.png": "https://hussain-akbarsabri.github.io/home/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
-    "index.html": "https://hussain-akbarsabri.github.io/home/index.html",
-    "main.fe927caf.css.map": "https://hussain-akbarsabri.github.io/home/static/css/main.fe927caf.css.map",
-    "main.6569ca3e.js.map": "https://hussain-akbarsabri.github.io/home/static/js/main.6569ca3e.js.map",
-    "787.4b24f717.chunk.js.map": "https://hussain-akbarsabri.github.io/home/static/js/787.4b24f717.chunk.js.map"
+    "main.css": "http://localhost:3000/static/css/main.fe927caf.css",
+    "main.js": "http://localhost:3000/static/js/main.fd9d2cf8.js",
+    "static/js/787.4b24f717.chunk.js": "http://localhost:3000/static/js/787.4b24f717.chunk.js",
+    "static/media/hashirshoaeb.png": "http://localhost:3000/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "index.html": "http://localhost:3000/index.html",
+    "main.fe927caf.css.map": "http://localhost:3000/static/css/main.fe927caf.css.map",
+    "main.fd9d2cf8.js.map": "http://localhost:3000/static/js/main.fd9d2cf8.js.map",
+    "787.4b24f717.chunk.js.map": "http://localhost:3000/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.6569ca3e.js"
+    "static/js/main.fd9d2cf8.js"
   ]
 }
