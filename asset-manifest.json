@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "https://hussain-akbarsabri.github.io/home/static/css/main.fe927caf.css",
-    "main.js": "https://hussain-akbarsabri.github.io/home/static/js/main.30ea76d7.js",
+    "main.js": "https://hussain-akbarsabri.github.io/home/static/js/main.a172ba65.js",
     "static/js/787.4b24f717.chunk.js": "https://hussain-akbarsabri.github.io/home/static/js/787.4b24f717.chunk.js",
     "static/media/hashirshoaeb.png": "https://hussain-akbarsabri.github.io/home/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
     "index.html": "https://hussain-akbarsabri.github.io/home/index.html",
     "main.fe927caf.css.map": "https://hussain-akbarsabri.github.io/home/static/css/main.fe927caf.css.map",
-    "main.30ea76d7.js.map": "https://hussain-akbarsabri.github.io/home/static/js/main.30ea76d7.js.map",
+    "main.a172ba65.js.map": "https://hussain-akbarsabri.github.io/home/static/js/main.a172ba65.js.map",
     "787.4b24f717.chunk.js.map": "https://hussain-akbarsabri.github.io/home/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.30ea76d7.js"
+    "static/js/main.a172ba65.js"
   ]
 }
